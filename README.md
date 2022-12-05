@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Santos
-- 👀 Currently studying Reac.js + typescript 
+- 👀 Currently studying React.js + typescript 
 - :school: IFNMG-Campus Teófilo Otoni -  MG 
 - :computer:Systems analysis and development
 
