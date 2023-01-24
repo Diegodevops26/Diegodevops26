@@ -14,9 +14,19 @@
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true" />
+</picture>
 
-[![](https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodevops26&layout=compact)](https://github.com/Diegodevops26/github-readme-stats)
+
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
