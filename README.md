@@ -17,6 +17,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=radical)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodevops26&layout=compact)](https://github.com/Diegodevops26/github-readme-stats)
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
