@@ -13,7 +13,6 @@
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=dark"
@@ -23,7 +22,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 
