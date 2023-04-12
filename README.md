@@ -33,7 +33,8 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-![Snake animation](https://github.com/Diegodevops26/Diegodevops26/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
