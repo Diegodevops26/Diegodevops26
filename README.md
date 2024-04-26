@@ -1,4 +1,4 @@
-<p>Hello, my name is Diego Santos, also known as [Diego.Dev]. I currently live in [Novo Oriente de Minas - MG] and my goal is to help the developer community achieve their goals as quickly as possible.</p>
+<p>Hello, my name is Diego Santos, also known as [DiegoSantos.Dev]. I currently live in [Novo Oriente de Minas - MG] and my goal is to help the developer community achieve their goals as quickly as possible.</p>
 
 <p>I'm a student of Technology in Systems Analysis and Development at the Federal Institute of Northern Minas, currently in my 6th period. I have a passion for technology and I'm constantly seeking to learn and improve my skills in the world of software development.</p>
 
