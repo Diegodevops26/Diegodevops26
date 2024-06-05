@@ -18,18 +18,26 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=gruvbox"
-  media="(prefers-color-scheme: gruvbox)"
+  srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: ), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Diegodevops26&show_icons=true" />
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodevops26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodevops26&layout=compact)
+
+
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
