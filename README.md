@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
 <p>Hello, my name is Diego Santos, also known as DiegoSantos.Dev. I currently live in Novo Oriente de Minas - MG and my goal is to help the developer community achieve their goals as quickly as possible.</p>
 
 <p>I'm a student of Technology in Systems Analysis and Development at the Federal Institute of Northern Minas, currently in my 6th period. I have a passion for technology and I'm constantly seeking to learn and improve my skills in the world of software development.</p>
@@ -5,6 +8,7 @@
 <p>I am a member of the He4rt Developers community.</p>
 
 ---
+
 
 ## 🛠️ Technologies & Tools
 
@@ -49,7 +53,8 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodevops26&layout=compact)
-
 ##
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
 
