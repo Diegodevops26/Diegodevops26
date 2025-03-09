@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
   <h1>Olá, eu sou Diego Santos 👋</h1>
   <p>Também conhecido como <strong>DiegoSantos.Dev</strong>.</p>
-  <p>Vivo em Novo Oriente de Minas - MG e minha missão é ajudar a comunidade de desenvolvedores a alcançar seus objetivos de forma rápida e eficaz.</p>
+  <p>Moro em Novo Oriente de Minas - MG e minha missão é ajudar a comunidade de desenvolvedores a alcançar seus objetivos de forma rápida e eficaz.</p>
 </div>
 
 ---
