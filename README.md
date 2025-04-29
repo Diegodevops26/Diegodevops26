@@ -3,6 +3,7 @@
   <h1>Olá, eu sou Diego Santos 👋</h1>
   <p>Também conhecido como <strong>DiegoSantos.Dev</strong>.</p>
   <p>Moro em Novo Oriente de Minas - MG e minha missão é ajudar a comunidade de desenvolvedores a alcançar seus objetivos de forma rápida e eficaz.</p>
+  <p>Atualmente desenvolvendo API de Controle Financeiro - FluxoZen Finança, ele e toltamente desenvolvido em Python + Flask</p>
 </div>
 
 ---
