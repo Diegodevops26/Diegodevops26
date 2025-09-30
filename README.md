@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMwZm80bG1iNmp3NHN5aW9lOWZ2ZGs2czI1bm1ocHhvbnU1cHBrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="500" />
+  
   <h1>Olá, eu sou Diego Santos 👋</h1>
+  
   <p>Também conhecido como <strong>DiegoSantos.Dev</strong>.</p>
   <p>Moro em Novo Oriente de Minas - MG e minha missão é ajudar a comunidade de desenvolvedores a alcançar seus objetivos de forma rápida e eficaz.</p>
   <p>Atualmente desenvolvendo API de Controle Financeiro - FluxoZen Financeiro - Transforme seu caos financeiro em zen, ele e toltamente desenvolvido em Python + Flask</p>
@@ -8,11 +10,13 @@
 
 ---
 
-### 👨‍💻 Sobre mim:
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal Norte de Minas (6º período).  
-- 💡 Apaixonado por tecnologia e desenvolvimento de software.  
-- 🤝 Membro da comunidade **He4rt Developers**.  
-- 🚀 Sempre em busca de novos aprendizados e desafios no mundo da tecnologia.  
+### 👨‍💻 Sobre Mim
+
+- 🎓 Finalizando o curso de **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Norte de Minas Gerais (IFNMG).
+- 💻 Apaixonado por desenvolvimento Frontend, especialmente com **React e TypeScript**, e com experiência em construção de APIs RESTful robustas.
+- 🚀 Planejando iniciar uma Pós-Graduação em **Arquitetura de Software e Sistemas Distribuídos** em 2026 para aprofundar minha visão sistêmica.
+- 💡 Buscando ativamente desafios para construir aplicações web modernas e intuitivas.
+- 🤝 Membro ativo da comunidade **He4rt Developers**.
 
 ---
 
