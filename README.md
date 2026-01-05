@@ -77,13 +77,6 @@ sempre priorizando **organização, escalabilidade, manutenibilidade e código l
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diegodevops26&column=2&no-frame=true" />
-</p>
-
 ---
 
 ## 📫 Vamos conversar?
