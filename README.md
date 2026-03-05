@@ -28,8 +28,17 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de **c
 Atualmente, curso o último ano de **Análise e Desenvolvimento de Sistemas** no IFNMG, com foco em me tornar um **Arquiteto de Software**. 
 
 - 🎓 **Futuro:** Pós-Graduando em Arquitetura de Software e Sistemas Distribuídos (PUC Minas).
-- 🛠️ **Foco Atual:** Especialização em Next.js, TypeScript e práticas de DevOps.
+- 🛠️ **Foco Atual:** Cloud Computing, NoSQL e práticas de DevOps.
 - 🎯 **Objetivo:** Criar soluções que unam performance no Frontend e resiliência no Backend.
+
+---
+
+## 📜 Certificações & Formação Complementar
+
+Atualmente em processo de especialização e certificação em tecnologias globais:
+
+- ☁️ **Google Cloud Platform (GCP)** — Em progresso
+- 🍃 **MongoDB Certified Associate** — Em progresso
 
 ---
 
@@ -38,7 +47,7 @@ Atualmente, curso o último ano de **Análise e Desenvolvimento de Sistemas** no
 ### 🗓️ Life Organizer
 **Ecossistema de Produtividade Pessoal**
 - Desenvolvimento de uma plataforma completa para gestão de tarefas e rotina.
-- **Tech Stack:** Next.js, TypeScript, Prisma ORM e PostgreSQL.
+- **Tech Stack:** Next.js, TypeScript, Prisma ORM e PostgreSQL/MongoDB.
 - Foco em UX/UI intuitivo e persistência de dados eficiente.
 
 ### 💰 FluxoZen Financeiro  
@@ -63,11 +72,11 @@ Atualmente, curso o último ano de **Análise e Desenvolvimento de Sistemas** no
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
 ---
 
 ## 📫 Vamos conversar?
