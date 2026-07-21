@@ -2,7 +2,7 @@
   
 
   <h1>Diego Santos</h1>
-  <h3>Software Engineer Student | React • Next.js • TypeScript • Node.js</h3>
+  <h3> Future Software Architecture | React • Next.js • TypeScript • Node.js</h3>
 
   <p>
     Desenvolvedor focado na construção de aplicações web modernas, escaláveis e bem arquitetadas.
