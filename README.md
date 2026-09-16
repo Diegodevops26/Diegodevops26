@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Diego Santos</h1>
-  <h3>Desenvolvedor Full Stack | React • Next.js • TypeScript • Node.js</h3>
+  <h3>Desenvolvedor Full Stack | React • Next.js • TypeScript • Node.js • C#(.NET) </h3>
 
   <p>
     Desenvolvedor Full Stack recém-formado em Análise e Desenvolvimento de Sistemas pelo
@@ -33,7 +33,7 @@
 
 Sou um **Desenvolvedor Full Stack recém-formado em Análise e Desenvolvimento de Sistemas pelo IFNMG — Campus Teófilo Otoni**, com foco no desenvolvimento de aplicações web modernas, escaláveis e bem estruturadas.
 
-Tenho experiência com o ecossistema **React**, desenvolvimento de aplicações com **Next.js e TypeScript**, além da construção e integração de **APIs RESTful** utilizando Node.js e Python.
+Tenho experiência com o ecossistema **React**, desenvolvimento de aplicações com **Next.js e TypeScript**, além da construção e integração de **APIs RESTful** utilizando Node.js, Python e C# (.NET).
 
 Meu objetivo é evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em **arquitetura de software, sistemas distribuídos, Cloud Computing, bancos de dados e práticas de DevOps**.
 
@@ -115,6 +115,10 @@ Atualmente, continuo ampliando meus conhecimentos através de cursos, estudos pr
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -154,7 +158,11 @@ Backend
 ├── Python
 ├── Flask
 ├── Java
-└── Spring Boot
+├── Spring Boot
+├── C#
+├── .NET
+├── PHP
+└── Laravel
 
 Banco de Dados
 ├── MySQL
