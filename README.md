@@ -13,7 +13,7 @@
     📍 Novo Oriente de Minas - MG <br/>
     🎓 Análise e Desenvolvimento de Sistemas — IFNMG, Campus Teófilo Otoni
     <br/>
-    ✅ Formação concluída em 31/08/2026
+    ✅ Formação concluída em 11/07/2026
   </p>
 
   <div>
